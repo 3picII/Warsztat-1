@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31a86d8b-4856-4dbb-857f-41d95eb3b32f" name="Changes" comment="">
+    <list default="true" id="31a86d8b-4856-4dbb-857f-41d95eb3b32f" name="Changes" comment="Warsztat 1 raczej poprawnie">
       <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
@@ -14,9 +14,10 @@
       <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/ConsoleColors.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/TaskManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/coderslab/ConsoleColors.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/pl/coderslab/TaskManager.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/tasks.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1644658329244</updated>
-      <workItem from="1644658333639" duration="21134000" />
+      <workItem from="1644658333639" duration="21684000" />
     </task>
     <servers />
   </component>
@@ -107,6 +108,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Warsztat 1 raczej poprawnie" />
+    <option name="LAST_COMMIT_MESSAGE" value="Warsztat 1 raczej poprawnie" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
