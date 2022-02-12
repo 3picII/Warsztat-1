@@ -118,7 +118,7 @@ public class TaskManager {
         try{
         for(int i = 0; i < mir.length; i++){
             System.out.print(i + " : ");
-            for(int j = 0; j < mir.length; j++) {
+            for(int j = 0; j < mir[i].length; j++) {
                 System.out.print(mir[i][j] + " ");
             }
             System.out.println();
