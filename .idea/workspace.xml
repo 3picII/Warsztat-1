@@ -7,7 +7,6 @@
     <list default="true" id="31a86d8b-4856-4dbb-857f-41d95eb3b32f" name="Changes" comment="Warsztat 1 raczej poprawnie">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pl/coderslab/TaskManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/TaskManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasks.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tasks.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1644658329244</updated>
-      <workItem from="1644658333639" duration="23491000" />
+      <workItem from="1644658333639" duration="24964000" />
     </task>
     <task id="LOCAL-00001" summary="Warsztat 1 raczej poprawnie">
       <created>1644681756113</created>
@@ -94,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644681766554</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Warsztat 1 raczej poprawnie">
+      <created>1644684544463</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1644684544464</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

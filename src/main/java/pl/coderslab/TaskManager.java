@@ -78,12 +78,12 @@ public class TaskManager {
     }
 
     public static void add() {
-        System.out.println("Please enter task description");
+        System.out.println(ConsoleColors.BLUE + "Please enter task description");
         Scanner scanAdd = new Scanner(System.in);
         String taskDescription = scanAdd.nextLine();
-        System.out.println("Please add task due date");
+        System.out.println(ConsoleColors.BLUE + "Please add task due date");
         String taskDueDate = scanAdd.nextLine();
-        System.out.println("Is your task important: true/false");
+        System.out.println(ConsoleColors.BLUE + "Is your task important: true/false");
         String taskImportancy = scanAdd.nextLine();
         try {
             LIST = Arrays.copyOf(LIST, LIST.length + 1);
