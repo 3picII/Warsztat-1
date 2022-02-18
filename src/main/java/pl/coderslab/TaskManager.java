@@ -100,7 +100,7 @@ public class TaskManager {
         try {
             if (remove < textArray.length) {
                 LIST = ArrayUtils.remove(textArray, remove);
-                System.out.println("Value was successfully removed");
+                System.out.println(ConsoleColors.GREEN + "Value was successfully removed");
             } else {
                 System.out.println(ConsoleColors.YELLOW + "Cannot find the number");
             }
@@ -147,7 +147,7 @@ public class TaskManager {
 
     public static int selectToRemove() {
         int result = 0;
-        System.out.println("Please select number to remove");
+        System.out.println(ConsoleColors.BLUE + "Please select number to remove");
         Scanner scan = new Scanner(System.in);
         String number1 = scan.nextLine();
         result = Integer.parseInt(number1);
